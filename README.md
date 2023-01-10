@@ -21,6 +21,7 @@ If you need a prepared Unity project with the Antilatency SDK and this package i
 
 The package contains the following Samples: prepared scenes with the prefab implementation. You can add these scenes to your project Assets by clicking `Import` in Unity Package Manager:
 * [Alt Tracking XR Sample](./Samples~/AltTrackingXrSample) - Standard implementation of [`AltTrackingXrRig.prefab`](./Prefabs).
+* [Alt Tracking Full Body Sample](./Samples~/AltTrackingFullBodySample) - The sample contains a simple scene with the [`AltTrackingXrRig.prefab`](./Prefabs) and addition of a leg tracking.
 
 ## Adding other Unity XR plugins
 This package pulls up standard Unity XR plugins (Windows MR, Oculus and etc.).

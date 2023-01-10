@@ -1,7 +1,7 @@
 {
   "name": "com.antilatency.alt-tracking-xr",
   "displayName": "Alt Tracking XR",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "unity": "2019.4",
   "description": "This package contains example implementation of headset tracking with Antilatency tracking system and Unity XR platform.",
   "documentationUrl": "https://developers.antilatency.com/Root/Index_en.html",
@@ -15,6 +15,11 @@
       "displayName": "Alt Tracking XR Sample",
       "description": "Contains example scene AltTrackingXrSample.unity",
       "path": "Samples~/AltTrackingXrSample"
+    },
+    {
+      "displayName": "Alt Tracking Full Body Sample",
+      "description": "Contains LegTracking.prefab for full body tracking",
+      "path": "Samples~/AltTrackingFullBodySample"
     }
   ],
   "keywords": [
