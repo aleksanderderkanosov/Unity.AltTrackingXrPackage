@@ -16,7 +16,7 @@
 
 ### Sample description
 
-The sample contains a simple scene with the [`AltTrackingXrRig.prefab`](../../Prefabs). and leg tracking. 
+The sample contains a simple scene with the [`AltTrackingXrRig.prefab`](../../Prefabs) and leg tracking. 
 It is implemented with the [`LegTracking.prefab`](./Prefabs) and Antilatency [Sockets](https://developers.antilatency.com/Terms/Socket_en.html): [Tag](https://developers.antilatency.com/Hardware/Tag_en.html), [Universal Radio Socket](https://developers.antilatency.com/Hardware/Universal_Radio_Socket_en.html) or [Wired USB Socket](https://developers.antilatency.com/Hardware/WiredUSBSocket_en.html). 
 We strongly recommend attaching Socket to the leg in two ways, depending on the type of [Environment](https://developers.antilatency.com/Terms/Environment_en.html) you are using:
 * in the case of a [Floor tracking area](https://developers.antilatency.com/Hardware/TrackingAreaFloor_en.html), set the Socket to the shin: 
