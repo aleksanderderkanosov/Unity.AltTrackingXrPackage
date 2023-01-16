@@ -27,7 +27,7 @@ We strongly recommend attaching Socket to the leg in two ways, depending on the 
 
 ![FeetPosition](https://user-images.githubusercontent.com/69207595/200616164-ac7dbad7-d347-4f26-a1b6-9a709f744b34.jpg)
 
-By default, the leg model is set to the shin position. You can select the desired configuration from the dropdown list of the ['LegSwitcher.cs'](./Scripts/LegSwitcher.cs) script on the [`LegTracking.prefab`](./Prefabs).
+By default, the leg model is set to the shin position. You can select the desired configuration from the dropdown list of the [`LegSwitcher.cs`](./Scripts/LegSwitcher.cs) script on the [`LegTracking.prefab`](./Prefabs).
 
 To set which device will be attached to which foot, write for the device custom `Tag` property the corresponding value: `LeftLeg` and `RightLeg` accordingly (for more information refer to *[How to configure device custom properties](https://developers.antilatency.com/HowTo/Set_Device_Custom_Properties_en.html)*). 
 
