@@ -1,6 +1,6 @@
 # Unity.AltTrackingXrPackage
 
-This package includes integration of headset tracking with [Antilatency tracking system](https://antilatency.com/), [Tracking Alignment library](https://developers.antilatency.com/Software/Libraries/Antilatency_Tracking_Alignment_Library_en.html), and [Unity XR](https://docs.unity3d.com/Manual/XR.html) platform.
+This package includes integration of headset tracking with [Antilatency tracking system](https://antilatency.com/), [Tracking Alignment Library](https://developers.antilatency.com/Software/Libraries/Antilatency_Tracking_Alignment_Library_en.html), and [Unity XR](https://docs.unity3d.com/Manual/XR.html) platform.
 
 The link for Unity Package Manager: https://github.com/antilatency/Unity.AltTrackingXrPackage.git
 
