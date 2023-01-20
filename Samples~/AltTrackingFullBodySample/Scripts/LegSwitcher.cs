@@ -11,7 +11,7 @@ public class LegSwitcher : MonoBehaviour {
     }
 
     public Models CurrentModel {
-        get { return _currentModel; }
+        get => _currentModel;
         set {
             _currentModel = value;
             SwitchModel();
